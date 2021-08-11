@@ -1,5 +1,5 @@
-aws_access_key = "AKIA5CZTHJPJ5VDV7XFL"
-aws_secret_key = "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"
+aws_access_key = "xxxx"
+aws_secret_key = "yyyyyyyy"
 aws_region = "us-east-2"
 instance_type = "t2.micro"
 ami = "ami-0443305dabd4be2bc"
